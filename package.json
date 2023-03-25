@@ -1,0 +1,14 @@
+{
+  "name": "pinkdragon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "\"Error: no test specified\""
+  },
+  "author": "Pink Dragon",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
